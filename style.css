@@ -34,10 +34,10 @@ header {
 .navbar-brand h1 {
     position: absolute;
     top: 15px; 
-    bottom: 20px;
-    left: 150px;
+    bottom: 10px;
+    left: 130px;
     color: gold;
-    font-size: 2.2em;
+    font-size: 1.8em;
     text-transform: uppercase;
     font-weight: bold;
     text-shadow: 1px 1px 1px #222;
@@ -47,14 +47,14 @@ span {
     position: absolute;
     top: 80px; 
     bottom: 30px;
-    left: 150px;
+    left: 130px;
     color: gold;
     font-size: 1.2em;
 }
 .toggle-icon {
     width: 30px; 
     height: 2px;
-    background: rgb(233, 228, 228);
+    background: gold;
     cursor: pointer;
     border: 2px solid black;
     padding: 2px;
@@ -135,7 +135,7 @@ body.about-content {
 .about-page h1 {
     margin-bottom: 0;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     font-family: 'Borel', cursive;
 }
 .about-page p{
@@ -193,7 +193,7 @@ body.about-content {
 }
 .about-content .sustainable h1 {
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
     font-family: 'Borel', cursive;
     margin-bottom: 0;
 }
